@@ -35,3 +35,5 @@ To run this project locally:
    ```bash
    git clone [https://github.com/Ali-Tobar/react-posts-feed.git](https://github.com/Ali-Tobar/react-posts-feed.git)
    ```
+
+> **Project status:** Frontend UI showcase. The current version uses local sample data and does not include a backend or production data service.
